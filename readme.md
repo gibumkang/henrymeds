@@ -4,6 +4,7 @@
 2. Change directory into `backend` and `npm install`.
 3. Run the server by running `yarn dev`
 4. While keeping the server running, please open a new terminal and change directory into `frontend` and `yarn` to install dependencies.
+5. Finally, please run the frontend application with `yarn dev`.
 
 ## How to use the application
 
