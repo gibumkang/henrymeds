@@ -7,7 +7,7 @@
 
 ## How to use the application
 
-The user will be logged in as a provider by default. The provider can select availability by using a date and time selector. Once the availability is confirmed, then the user can switch as a client by selected the top right hand button. Upon selection, a modal will prompt with dummy credentials to log the user in as a client.
+The user will be logged in as a provider by default. The provider can select availability by using a date and time selector. Once the availability is confirmed, then the user can switch as a client by selecting the top right hand button. Upon selection, a modal will prompt with dummy credentials to log the user in as a client.
 
 The client can use the calendar in order view available dates they can book an appointment with a provider. Once a valid date is selected, then the client can confirm an appointment with a provider.
 
